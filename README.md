@@ -1,4 +1,5 @@
 --MNIST Digit Recognizer
+
 We train a model on the MNIST dataset to recognize handwritten digits.
 
 --Practical Applications of this Work:
