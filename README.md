@@ -1,6 +1,8 @@
 --MNIST Digit Recognizer
 
 We train a model on the MNIST dataset to recognize handwritten digits.
+Dataset used:
+https://www.kaggle.com/competitions/digit-recognizer
 
 --Practical Applications of this Work:
 1. Digitized medical records 
